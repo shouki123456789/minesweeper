@@ -1,4 +1,4 @@
-# minesweeper
+# Minesweeper
 Minesweeper game
 ## Description
 Minesweeper is a classic puzzle game where players uncover cells on a grid while avoiding mines. Each cell either contains a mine or a number indicating the number of adjacent cells containing mines. The goal is to uncover all safe cells without detonating any mines.
